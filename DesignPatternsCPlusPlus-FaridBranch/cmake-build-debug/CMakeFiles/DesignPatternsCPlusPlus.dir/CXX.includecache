@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/farida/Documents/gitKraken repositories/DesignPatternsCpp/DesignPatternsCPlusPlus/Body.cpp
+Body.h
+/home/farida/Documents/gitKraken repositories/DesignPatternsCpp/DesignPatternsCPlusPlus/Body.h
+
+/home/farida/Documents/gitKraken repositories/DesignPatternsCpp/DesignPatternsCPlusPlus/Body.h
+string
+-
+
+/home/farida/Documents/gitKraken repositories/DesignPatternsCpp/DesignPatternsCPlusPlus/Car.cpp
+iostream
+-
+Car.h
+/home/farida/Documents/gitKraken repositories/DesignPatternsCpp/DesignPatternsCPlusPlus/Car.h
+
+/home/farida/Documents/gitKraken repositories/DesignPatternsCpp/DesignPatternsCPlusPlus/Car.h
+Body.h
+/home/farida/Documents/gitKraken repositories/DesignPatternsCpp/DesignPatternsCPlusPlus/Body.h
+Tires.h
+/home/farida/Documents/gitKraken repositories/DesignPatternsCpp/DesignPatternsCPlusPlus/Tires.h
+Engine.h
+/home/farida/Documents/gitKraken repositories/DesignPatternsCpp/DesignPatternsCPlusPlus/Engine.h
+
+/home/farida/Documents/gitKraken repositories/DesignPatternsCpp/DesignPatternsCPlusPlus/CarFactory.cpp
+CarFactory.h
+/home/farida/Documents/gitKraken repositories/DesignPatternsCpp/DesignPatternsCPlusPlus/CarFactory.h
+
+/home/farida/Documents/gitKraken repositories/DesignPatternsCpp/DesignPatternsCPlusPlus/CarFactory.h
+Car.h
+/home/farida/Documents/gitKraken repositories/DesignPatternsCpp/DesignPatternsCPlusPlus/Car.h
+
+/home/farida/Documents/gitKraken repositories/DesignPatternsCpp/DesignPatternsCPlusPlus/Engine.cpp
+Engine.h
+/home/farida/Documents/gitKraken repositories/DesignPatternsCpp/DesignPatternsCPlusPlus/Engine.h
+
+/home/farida/Documents/gitKraken repositories/DesignPatternsCpp/DesignPatternsCPlusPlus/Engine.h
+
+/home/farida/Documents/gitKraken repositories/DesignPatternsCpp/DesignPatternsCPlusPlus/Tires.cpp
+Tires.h
+/home/farida/Documents/gitKraken repositories/DesignPatternsCpp/DesignPatternsCPlusPlus/Tires.h
+
+/home/farida/Documents/gitKraken repositories/DesignPatternsCpp/DesignPatternsCPlusPlus/Tires.h
+string
+-
+
+/home/farida/Documents/gitKraken repositories/DesignPatternsCpp/DesignPatternsCPlusPlus/main.cpp
+iostream
+-
+CarFactory.h
+/home/farida/Documents/gitKraken repositories/DesignPatternsCpp/DesignPatternsCPlusPlus/CarFactory.h
+
